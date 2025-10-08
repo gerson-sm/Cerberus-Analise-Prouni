@@ -1,5 +1,5 @@
 # Análise de Equidade e Distribuição das Bolsas do Prouni (2016–2019)
-Resumo do Projeto
+## Resumo do Projeto
 O projeto tem como objetivo analisar a distribuição das bolsas do Prouni (Programa Universidade para Todos) no período de 2016 a 2019, a fim de identificar padrões, avaliar a equidade no processo de concessão e propor recomendações baseadas em dados.
 A análise busca responder três grandes eixos de investigação:
 
@@ -8,6 +8,11 @@ A análise busca responder três grandes eixos de investigação:
 •	Avaliar a equidade: verificar se há disparidades significativas na concessão das bolsas para diferentes perfis de estudantes.
 
 •	Propor recomendações: sugerir melhorias para ampliar a inclusão e a transparência do programa, reforçando seu impacto social.
+
+Dashboard: https://lookerstudio.google.com/reporting/346ce31b-ce7d-43c0-81cc-50a7f35f47ed
+
+Apresentação: https://docs.google.com/presentation/d/1SCxodxN9IVmF2P_Gq0-6G0i51VAhBwH8/
+
 # Dataset Utilizado
 Foram utilizadas as bases de dados do Prouni disponibilizadas pelo Ministério da Educação (MEC), referentes aos anos de 2016 a 2019, disponíveis em:
 https://dadosabertos.mec.gov.br/prouni
